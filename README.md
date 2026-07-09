@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kevin Sterling Correa</h1>
 
 <h3 align="center">
-Data Engineer | Data Analyst | Azure & Databricks Enthusiast
+Data Engineer | Data Analyst | Azure & Databricks 
 </h3>
 
 <p align="center">
@@ -70,41 +70,7 @@ Become a Data Engineer building scalable cloud data platforms.
 
 ---
 
-# 🚀 Featured Projects
 
-## 📺 Netflix Data Engineering Pipeline
-
-Modern ETL pipeline using:
-
-- Databricks
-- PySpark
-- Delta Lake
-- Bronze / Silver / Gold Architecture
-- SQL Analytics
-
----
-
-## ❤️ Real-Time Wearable Health Lakehouse Platform
-
-End-to-end Lakehouse architecture using:
-
-- Databricks
-- Apache Spark
-- Delta Lake
-- Streaming concepts
-- Healthcare wearable dataset
-
----
-
-## ☀️ Solar Energy Analytics
-
-Data analytics platform for photovoltaic systems.
-
-Tools:
-
-- Python
-- SQL
-- Power BI
 
 ---
 
@@ -116,37 +82,7 @@ Tools:
 
 ---
 
-# 📈 GitHub Stats
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KSterlingAI&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KSterlingAI&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=KSterlingAI&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📊 Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KSterlingAI&theme=tokyo-night"/>
-
-</p>
-
----
 
 # 🌱 Currently Learning
 
@@ -168,13 +104,11 @@ Tools:
 
 <p>
 
-<a href="https://www.linkedin.com/">
+<a href="www.linkedin.com/in/kevinsterling-data">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:your_email@email.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
+
 
 </p>
 
