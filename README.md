@@ -69,7 +69,70 @@ Become a Data Engineer building scalable cloud data platforms.
 </p>
 
 ---
+# 🚀 Featured Data Engineering Projects
 
+## 🥇 Healthcare ETL Medallion Pipeline (Databricks)
+
+**Repository:** `proyecto-etl-medallion-databricks-salud`
+
+An end-to-end healthcare Data Engineering project built on the Medallion Architecture using Databricks and Apache Spark.
+
+### Highlights
+
+- Bronze / Silver / Gold Architecture
+- PySpark Data Processing
+- Delta Lake
+- Data Quality & Cleaning
+- Healthcare Dataset
+- Lakehouse Design
+- SQL Analytics
+- Scalable ETL Pipelines
+
+**Tech Stack**
+
+`Databricks` • `PySpark` • `Apache Spark` • `Delta Lake` • `SQL`
+
+---
+
+## 🏥 Healthcare Readmission Lakehouse
+
+**Repository:** `healthcare-readmission-lakehouse`
+
+A complete healthcare analytics project focused on patient readmission prediction using a modern Lakehouse architecture.
+
+### Highlights
+
+- Healthcare Data Engineering
+- Data Cleaning
+- Feature Engineering
+- SQL Analytics
+- Machine Learning Ready Dataset
+- Delta Lake Storage
+
+**Tech Stack**
+
+`Databricks` • `PySpark` • `Python` • `SQL`
+
+---
+
+## ❤️ Real-Time Wearable Health Lakehouse Platform
+
+**Repository:** `Real-Time-Wearable-Health-Lakehouse-Platform`
+
+Modern Lakehouse platform for processing wearable healthcare sensor data using Apache Spark and Delta Lake.
+
+### Highlights
+
+- Wearable Sensor Data
+- Healthcare Analytics
+- Medallion Architecture
+- Data Engineering Pipelines
+- Delta Lake
+- Apache Spark
+
+**Tech Stack**
+
+`Databricks` • `PySpark` • `Delta Lake` • `Spark SQL`
 
 
 ---
@@ -102,15 +165,10 @@ Become a Data Engineer building scalable cloud data platforms.
 
 # 🤝 Connect with Me
 
-<p>
-
-<a href="www.linkedin.com/in/kevinsterling-data">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
 
 
+www.linkedin.com/in/kevinsterling-data
 
-</p>
 
 ---
 
