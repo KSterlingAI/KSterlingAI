@@ -1,64 +1,187 @@
-<div align="center">
-Hi, I'm Kevin Sterling 👋
-Data Engineer | Azure Databricks · PySpark · Delta Lake · SQL · Python
-10+ years turning messy data into governed, production-grade pipelines — across healthcare, energy, and public sector.
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
-![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-</div>
+<h1 align="center">Hi 👋, I'm Kevin Sterling Correa</h1>
+
+<h3 align="center">
+Data Engineer | Data Analyst | Azure & Databricks Enthusiast
+</h3>
+
+<p align="center">
+Building scalable data pipelines, cloud solutions, and modern Lakehouse architectures.
+</p>
+
 ---
-🧠 About Me
-I build end-to-end data pipelines using the Medallion architecture (Bronze → Silver → Gold) on Azure Databricks, with governed access via Managed Identity and automated deployment through GitHub Actions CI/CD.
-I've applied this across healthcare, renewable energy, and public-sector projects — which taught me to adapt data architecture to very different business contexts, compliance needs, and stakeholders. I combine that engineering foundation with hands-on experience in operational analytics, executive dashboards, and process automation using Python, SQL, R, and Power BI.
-Currently open to Data Engineer / Data Analyst roles in any industry — bringing secure, scalable, well-governed data solutions that drive real business impact.
+
+# 👨🏻‍💻 About Me
+
+🎓 Biomedical Engineer & Specialist in Project Management
+
+📊 Currently working as a Data Analyst
+
+🚀 Transitioning into Data Engineering
+
+☁️ Passionate about Azure, Databricks, PySpark and Delta Lake
+
+📚 Currently learning
+
+- Azure Data Engineering
+- Databricks
+- Apache Spark
+- Medallion Architecture
+- Data Warehousing
+- Lakehouse Architecture
+
+🎯 Goal for 2026
+
+Become a Data Engineer building scalable cloud data platforms.
+
 ---
-⚙️ Tech Stack
-Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-Data Engineering
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![Delta Lake](https://img.shields.io/badge/Delta_Lake-00ADD8?style=flat-square)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-Cloud & Governance
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Unity Catalog](https://img.shields.io/badge/Unity_Catalog-FF3621?style=flat-square)
-![Managed Identity](https://img.shields.io/badge/Managed_Identity-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-Analytics & ML
-![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+# 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,r,mysql,git,github" />
+</p>
+
+### Data Engineering
+
+<p>
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Delta_Lake-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PySpark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black"/>
+<img src="https://img.shields.io/badge/Spark_SQL-E25A1C?style=for-the-badge"/>
+</p>
+
+### Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,azure" />
+</p>
+
+### Data Analytics
+
+<p>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+</p>
+
 ---
-📂 Featured Projects
-🎬 Netflix Data Engineering Pipeline
-End-to-end batch pipeline on Azure Databricks using PySpark, Delta Lake, and Medallion architecture (Bronze/Silver/Gold) — general-purpose ETL pattern applicable to any transactional or catalog dataset.
-`Databricks` `PySpark` `Delta Lake` `Medallion`
-🏥 Real-Time Streaming Lakehouse Platform
-Real-time ingestion pipeline built on Spark Structured Streaming and Delta Lake, processing high-frequency sensor data with low latency — a pattern reusable for IoT telemetry, industrial sensors, or event streams in any domain.
-`Databricks` `Spark Structured Streaming` `Delta Lake` `Python`
-❤️ Heart Disease Risk Prediction
-Classification model to predict cardiac disease risk using Python and scikit-learn — end-to-end applied ML: cleaning, feature engineering, model evaluation.
-`Python` `scikit-learn` `pandas`
-🩺 Diabetes Prediction & AWS Deployment
-ML model for diabetes prediction, deployed on AWS — covers the full path from model training to a cloud-hosted endpoint.
-`Python` `scikit-learn` `AWS`
+
+# 🚀 Featured Projects
+
+## 📺 Netflix Data Engineering Pipeline
+
+Modern ETL pipeline using:
+
+- Databricks
+- PySpark
+- Delta Lake
+- Bronze / Silver / Gold Architecture
+- SQL Analytics
+
 ---
-🏅 Certifications
-Azure Databricks Platform Architect — Databricks Academy Accreditation
-AI Agent Fundamentals — Databricks Academy Accreditation
-Generative AI Fundamentals — Databricks Academy Accreditation
-AWS Certified Generative AI Practitioner — Amazon Web Services
-PL-300: Microsoft Power BI Data Analyst
+
+## ❤️ Real-Time Wearable Health Lakehouse Platform
+
+End-to-end Lakehouse architecture using:
+
+- Databricks
+- Apache Spark
+- Delta Lake
+- Streaming concepts
+- Healthcare wearable dataset
+
 ---
-📊 GitHub Stats
-<div align="center">
-![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=KSterlingAI&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KSterlingAI&layout=compact&hide_border=true)
-</div>
+
+## ☀️ Solar Energy Analytics
+
+Data analytics platform for photovoltaic systems.
+
+Tools:
+
+- Python
+- SQL
+- Power BI
+
 ---
-📫 Let's Connect
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
-![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+## 🤖 Machine Learning Projects
+
+- Diabetes Prediction
+- Customer Churn Prediction
+- Predictive Analytics
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=KSterlingAI&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KSterlingAI&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=KSterlingAI&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📊 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KSterlingAI&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+✅ Azure Data Engineering
+
+✅ Databricks
+
+✅ Unity Catalog
+
+✅ Delta Live Tables
+
+✅ Apache Spark
+
+✅ Microsoft Fabric
+
+---
+
+# 🤝 Connect with Me
+
+<p>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:your_email@email.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<i>"Turning data into scalable solutions."</i>
+
+</p>
